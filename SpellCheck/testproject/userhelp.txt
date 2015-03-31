@@ -1,0 +1,33 @@
+Bulk Spell Checker is a program for bulk spell-checking and correcting an entire website. It can come to web designer's aid while checking for some spelling errors in their website.
+
+The application takes website source page as input.
+It shows all the illegitimate words. Then user gets the set of suggestions for each illegitimate word.
+He can choose from suggestions or can ignore it.
+
+He is also given an option of entering his own choice. He can also get suggestions online.
+
+LOADING DICTIONARY
+
+Can output the updated file after all spell checks.
+On clicking the .exe file in the folder where the software was installed the user is prompted to wait forthe dictionary to load.
+
+BROWSING FILEPATH
+
+Then a window appears. Here the user has to select the le that needs to be
+spellchecked.He can do this by clicking on the Browse button.
+On clicking the browse button a openfiledialogbox appears in which user can select the file that needs to be spellchecked.
+When the user click on Open button then the filepath gets stored in textbox in the homewindow.
+
+SPELLCHECK
+
+Then click the spellcheck button.
+After the spellcheck the entire file is displayed in the next tab with bad words listed separately.
+You will have an option to see all its occurrences by clicking "show occurrences" button.
+You are provided a button "show all words" to highlight all the bad words in the file.
+By clicking on the "correct" button you are directed to third tab.
+In the third tab you will get the suggestions of the misspelled word and may options like 'replace'(to replace it once), 'replace all'(replace the word all over the file) to correct.
+Similar to replace you will have 'Ignore once'(to ignore the misspelled word once) and 'Ignore All'(to ignore the word all over the file).
+
+SAVING
+
+Given two separate options 'save'(to overwrite the original file with updated changes) and 'save as.There may not be a word in the dictionary. So we provided a button 'Add to dictionay' so that the word becomes good word. You may not be satisfied with the suggestion from the dictionary, So weprovided an option to search online.For search online we provided specific online website to find a word in the file and replace it with any word you are provided a button 'Find and Replace'and to move back to second tab 'Back' button is given.
